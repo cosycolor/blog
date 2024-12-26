@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* eslint-disable */
 
 import logo from './logo.svg';
@@ -35,18 +34,9 @@ function App() {
       </div>
       <div className = "list">
         <h4>{title[2]}</h4>
-        <p>2월 17일 발행</p>
+        <p>2월 17일 발행test</p>
       </div>
       <hr></hr>
-=======
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-       
->>>>>>> 19c9084973e9e1e808b65f9ce3d321778a4a3445
     </div>
   );
 }
