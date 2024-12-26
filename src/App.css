@@ -6,6 +6,7 @@
   height: 40vmin;
   pointer-events: none;
 }
+<<<<<<< HEAD
 .black-nav {
  display : flex;
  background : black;
@@ -21,6 +22,9 @@ div {
   padding-left : 20px;
   border-bottom : 1px solid grey;
 }
+=======
+
+>>>>>>> 19c9084973e9e1e808b65f9ce3d321778a4a3445
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
